@@ -1,2 +1,2 @@
-# yourusername.github.io
+# coinvoucher.github.io
 Coin Voucher Platform
